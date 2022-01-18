@@ -18,5 +18,8 @@
   "homepage": "https://github.com/comp426-2022-spring/a00-vlalithaunc#readme",
   "keywords": [
     ""
-  ]
+  ],
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
