@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://vlalithaunc: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@github.com/comp426-2022-spring/a00-vlalithaunc.git"
+    "url": "https://vlalithaunc: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@github.com/comp426-2022-spring/a00-vlalithaunc"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a00-vlalithaunc/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a00-vlalithaunc#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a00-vlalithaunc#readme",
+  "keywords": [
+    ""
+  ]
 }
